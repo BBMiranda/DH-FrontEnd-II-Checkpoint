@@ -30,57 +30,7 @@ https://bbmiranda.github.io/frontEndII-checkPoint/
 	🚧 Concluído 🚀 🚧
 </h4>
 
-
-<h3 align="center">
-  👨🏻‍💻 Autores 👩🏽‍💻  
-</h3>
-
-
-
-<a href="https://media-exp1.licdn.com/dms/image/C5603AQFZopnLuEDgKw/profile-displayphoto-shrink_800_800/0/1624393305147?e=1639008000&v=beta&t=eLRqFPAaSCcXpIEYprq88gyNwwEX2HDJj80bhystlyg">
- <img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C5603AQFZopnLuEDgKw/profile-displayphoto-shrink_800_800/0/1624393305147?e=1639008000&v=beta&t=eLRqFPAaSCcXpIEYprq88gyNwwEX2HDJj80bhystlyg" width="100px;" alt=""/>
- <br />
- <sub><b>1</b></sub></a> 🦹🏼‍
- <br />
-
-[![Linkedin Badge](https://img.shields.io/badge/-1-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexander-bandeira-5134811b7/)](https://www.linkedin.com/in/alexander-bandeira-5134811b7/) 
-
-
-
-<a href="img/andre.png">
- <img style="border-radius: 50%;" src="img/andre.png" width="100px;" alt=""/>
- <br />
- <sub><b>2</b></sub></a>🧙‍♂️
- <br />
-
-[![Linkedin Badge](https://img.shields.io/badge/-2-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andre-jose-da-silva/)](https://www.linkedin.com/in/alexander-bandeira-5134811b7/) 
-
-
-
-
-<a href="https://media-exp1.licdn.com/dms/image/C5603AQGprO4AnVD7jg/profile-displayphoto-shrink_800_800/0/1621455864395?e=1638403200&v=beta&t=lsweSDsnFyygCVziMEj70Mr7MAJ9zxEVwDKcqEjnTI8">
- <img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C5603AQGprO4AnVD7jg/profile-displayphoto-shrink_800_800/0/1621455864395?e=1638403200&v=beta&t=lsweSDsnFyygCVziMEj70Mr7MAJ9zxEVwDKcqEjnTI8" width="100px;" alt=""/>
- <br />
-	<sub><b>3</b></sub></a>🧝🏽‍♀️
- <br />
-
-[![Linkedin Badge](https://img.shields.io/badge/-3-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beatriz-andrade/)](https://www.linkedin.com/in/beatriz-andrade/)
-
-
-
-
-	 
-<a href="img/bruno.jpg">
-<img style="border-radius: 50%;" src="img/bruno.jpg" width="100px;" alt=""/>
-<br />
-	<sub><b>Bruno Barros Miranda</b></sub></a>👨‍🦱
-<br />
-
-[![Linkedin Badge](https://img.shields.io/badge/-Bruno-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-b-miranda/)](https://www.linkedin.com/in/bruno-b-miranda/) 
-
 ---
-
-
 
 ## 🖥️ Sobre o projeto
 
@@ -143,6 +93,55 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -  **[HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)**
 -  **[CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)**
 -  **[JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)**
+
+---
+
+<h3 align="center">
+  👨🏻‍💻 Autores 👩🏽‍💻  
+</h3>
+
+
+
+<a href="https://media-exp1.licdn.com/dms/image/C5603AQFZopnLuEDgKw/profile-displayphoto-shrink_800_800/0/1624393305147?e=1639008000&v=beta&t=eLRqFPAaSCcXpIEYprq88gyNwwEX2HDJj80bhystlyg">
+ <img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C5603AQFZopnLuEDgKw/profile-displayphoto-shrink_800_800/0/1624393305147?e=1639008000&v=beta&t=eLRqFPAaSCcXpIEYprq88gyNwwEX2HDJj80bhystlyg" width="100px;" alt=""/>
+ <br />
+ <sub><b>1</b></sub></a> 🦹🏼‍
+ <br />
+
+[![Linkedin Badge](https://img.shields.io/badge/-1-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexander-bandeira-5134811b7/)](https://www.linkedin.com/in/alexander-bandeira-5134811b7/) 
+
+
+
+<a href="img/andre.png">
+ <img style="border-radius: 50%;" src="img/andre.png" width="100px;" alt=""/>
+ <br />
+ <sub><b>2</b></sub></a>🧙‍♂️
+ <br />
+
+[![Linkedin Badge](https://img.shields.io/badge/-2-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andre-jose-da-silva/)](https://www.linkedin.com/in/alexander-bandeira-5134811b7/) 
+
+
+
+
+<a href="https://media-exp1.licdn.com/dms/image/C5603AQGprO4AnVD7jg/profile-displayphoto-shrink_800_800/0/1621455864395?e=1638403200&v=beta&t=lsweSDsnFyygCVziMEj70Mr7MAJ9zxEVwDKcqEjnTI8">
+ <img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C5603AQGprO4AnVD7jg/profile-displayphoto-shrink_800_800/0/1621455864395?e=1638403200&v=beta&t=lsweSDsnFyygCVziMEj70Mr7MAJ9zxEVwDKcqEjnTI8" width="100px;" alt=""/>
+ <br />
+	<sub><b>3</b></sub></a>🧝🏽‍♀️
+ <br />
+
+[![Linkedin Badge](https://img.shields.io/badge/-3-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beatriz-andrade/)](https://www.linkedin.com/in/beatriz-andrade/)
+
+
+
+
+	 
+<a href="img/bruno.jpg">
+<img style="border-radius: 50%;" src="img/bruno.jpg" width="100px;" alt=""/>
+<br />
+	<sub><b>Bruno Barros Miranda</b></sub></a>👨‍🦱
+<br />
+
+[![Linkedin Badge](https://img.shields.io/badge/-Bruno-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-b-miranda/)](https://www.linkedin.com/in/bruno-b-miranda/) 
 
 ---
 
