@@ -70,7 +70,7 @@ https://github.com/BBMiranda/frontEndII-checkPoint.git
 #Execute o arquivo
 index.html
 
-# A partir da página inicial, é possível acessar todas as outras por meio dos links e botões
+# Toda a funcionalidade se encontra na página principal.
 
 ```
 
