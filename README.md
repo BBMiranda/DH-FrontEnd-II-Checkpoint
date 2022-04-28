@@ -23,7 +23,7 @@
           b. O comportamento se dará de forma que as informações preenchidas sejam exibidas na seção de cards. 
 
 <h3 align="center">
-https://bbmiranda.github.io/frontEndII-checkPoint/
+https://bbmiranda.github.io/DH-FrontEnd-II-Checkpoint/
 </h3>
 
 <h4 align="center">
